@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/DevvIlya/ahj-homeworks-dom/actions/workflows/web.yml/badge.svg)
 
+[потыкать в морду](https://devvilya.github.io/ahj-homeworks-dom/)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
